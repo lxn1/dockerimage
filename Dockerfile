@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/cache-server:2.0.0-alpha.7
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
