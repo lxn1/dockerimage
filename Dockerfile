@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/api-server:2.0.0-alpha.7
+FROM gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-complianc
